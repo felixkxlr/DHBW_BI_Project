@@ -1,0 +1,14 @@
+Modell,MAPE,MAD
+Lineare Regression,6.69,2573989.22
+Lineare Regression mit Saisoneffekten,2.06,793052.99
+Lineare Regression mit Saisoneffekten & Kausalvariablen,1.59,614831.43
+Simple Exponential Smoothing (SES),10.38,4016231.68
+Double Exponential Smoothing (Holt),11.81,4576995.15
+Triple Exponential Smoothing - Additiv (Holt-Winters),2.36,897504.15
+Triple Exponential Smoothing - Multiplikativ (Holt-Winters),1.83,696688.38
+"ARIMA(1,1,0)",11.87,4598546.88
+"ARIMA(1,1,1)",11.57,4482194.74
+"ARIMA(2,1,0)",11.29,4372249.03
+"SARIMA(1,1,1)(1,1,1)[6]",2.56,976363.88
+"SARIMA(1,1,0)(1,1,1)[6]",2.42,920806.62
+"SARIMA(2,1,0)(1,1,1)[6]",2.6,993614.75
