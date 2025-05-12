@@ -8,3 +8,6 @@ jupyterlab==3.6.3
 notebook==6.5.4
 openpyxl==3.1.2
 xlrd==2.0.1
+meteostat>=1.6
+holidays>=0.11
+statsmodels>=0.13
